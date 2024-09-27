@@ -38,3 +38,4 @@ Estes dispositivos são instalados em cada lixeira. Eles incluem sensores para m
 5) Teste o sistema em um ambiente controlado antes de implantá-lo em uma escala maior.
 
 6) Documente todas as etapas de configuração, implementação e manutenção para referência futura.
+
